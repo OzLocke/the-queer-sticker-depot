@@ -1,5 +1,5 @@
 <!-- Gallery data -->
-[If_the_nazis]: /If_the_nazis/If%20the%20Nazis.png "The words 'If the Nazi's come out in support of what you're doing... You're on the wrong side!' in white on a black background, above a transgender flag (horizontal stripes, from top to bottom, in blue, pink, white, pink, blue) behind the words 'Trans rights are human rights' in black"
+[If_the_nazis]: /If_the_nazis/If%20the%20Nazis.png "The words 'If the Nazis come out in support of what you're doing... You're on the wrong side!' in white on a black background, above a transgender flag (horizontal stripes, from top to bottom, in blue, pink, white, pink, blue) behind the words 'Trans rights are human rights' in black"
 
 [If_your_movement]: /If_your_movement/If_your_movement.png "The words 'Friendly reminder: if your 'movement' is supported by Nazis, you are on the wrong side!' in black on a transgender flag (horizontal stripes, from top to bottom, in blue, pink, white, pink, blue.) Beneath are the the logo for Diverse Platforms Association (A clenched fist in the coloured with the Progress Pride flag -- white, pink, blue, brown, and black chevrons, followed by horizontal stripes of red, orange, yellow, green, blue, and purple) and the words '#Trans rights are human rights' in black"
 
