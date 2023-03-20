@@ -20,10 +20,9 @@ Simply click a design from the [gallery](#gallery) below to go to that design's 
 
 Click an image to go to the folder of image assets for that image
 
-|||
-| ------------- | ------------- |
-| [![Alt text][If_the_nazis]](/If_the_nazis/) | [![Alt text][If_your_movement]](/If_your_movement/) |
-| [![Alt text][Provide_citations]](/Provide_citations/) | |
+[![Alt text][If_the_nazis]](/If_the_nazis/)
+[![Alt text][If_your_movement]](/If_your_movement/)
+[![Alt text][Provide_citations]](/Provide_citations/)
 
 ## Terms
 
