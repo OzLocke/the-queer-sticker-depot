@@ -20,7 +20,8 @@ The stickers available here are shared under the following licencing:
 
 - Designs are free to use for non-commercial uses only
 - Designs are free to modify under the following limitations:
-  - Modifications *must* respect the original intent of the design (e.g any modification intended to subvert the intent of the design will not be licenced.)
+  - Modifications *must* respect the original intent of the design: any modification intended to subvert the intent of the design will not be licenced.)
+  - Modifications must be offered under the same terms
 - Attribution (via a link to this site) is appreciated but not required
 
 ### Contribution
