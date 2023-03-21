@@ -1,4 +1,4 @@
-baseurl = "https://ozlocke.github.io/the-queer-sticker-depot-site/"
+baseurl = "https://ozlocke.github.io/the-queer-sticker-depot/"
 title = "The Queer Sticker Depot"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-gb"
