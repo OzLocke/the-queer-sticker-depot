@@ -27,7 +27,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify -s the-queer-sticker-depot-site -d ../public
+        run: hugo --minify -s the-queer-sticker-depot-site -d ../public -b https://ozlocke.github.io/the-queer-sticker-depot/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
