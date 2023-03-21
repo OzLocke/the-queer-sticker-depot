@@ -1,0 +1,3 @@
+[submodule "the-queer-sticker-depot-site/themes/hugo-creative-portfolio-theme"]
+	path = the-queer-sticker-depot-site/themes/hugo-creative-portfolio-theme
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
