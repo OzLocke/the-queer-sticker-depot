@@ -1,11 +1,12 @@
 +++
-image = "img/portfolio/If%20the%20Nazis.png"
+image = "img/portfolio/If_the_Nazis.png"
 showonlyimage = true
 draft = false
 title = "If the Nazis..."
 weight = 1
 date = "2023-03-21T21:05:33+05:30"
 source = "https://github.com/OzLocke/the-queer-sticker-depot/tree/main/If_the_nazis"
+download = "https://downgit.github.io/#/home?url=https://github.com/OzLocke/the-queer-sticker-depot/blob/main/If_the_nazis"
 +++
 
 <!--more-->

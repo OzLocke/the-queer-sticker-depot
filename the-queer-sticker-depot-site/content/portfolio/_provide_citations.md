@@ -6,6 +6,7 @@ title = "Provide citations..."
 weight = 2
 date = "2023-03-21T21:05:33+05:30"
 source = "https://github.com/OzLocke/the-queer-sticker-depot/tree/main/Provide_citations"
+download = "https://downgit.github.io/#/home?url=https://github.com/OzLocke/the-queer-sticker-depot/blob/main/Provide_citations"
 +++
 
 <!--more-->
