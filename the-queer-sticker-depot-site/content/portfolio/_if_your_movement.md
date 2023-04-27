@@ -6,6 +6,7 @@ title = "If your movement..."
 weight = 3
 date = "2023-03-21T21:05:33+05:30"
 source = "https://github.com/OzLocke/the-queer-sticker-depot/tree/main/If_your_movement"
+download = "https://downgit.github.io/#/home?url=https://github.com/OzLocke/the-queer-sticker-depot/blob/main/If_your_movement"
 +++
 
 <!--more-->

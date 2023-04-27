@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}</h1>
+         <img src="{{.Params.image | absURL}}" alt="" class="img-responsive" width="50%">
+         <br>
+         {{ .Content }}
+         <h2 style="font-size:xx-large;">Get the files</h2>
+         <a href="{{.Params.download }}" target="_blank" alt="" title="Download via DownGit" class="icon_link"><i class="fa-solid fa-cloud-arrow-down fa-2xl"></i></a>
+         <a href="{{.Params.source }}" target="_blank" alt="" title="Go to Github" class="icon_link"><i class="fa-brands fa-github fa-2xl"></i></a>
+         {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
